@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Daksh Sharma 👋
 
-<!--
-**daksh100sharma/daksh100sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+- 🌐 Full stack development
+- 💻 Game development
+- 🧪 New technologies
+- 🐈 Animals
 
-Here are some ideas to get you started:
+### Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&labelColor=444)
+![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen?style=flat&logo=node.js&labelColor=444)
+![React](https://img.shields.io/badge/-React-9cf?style=flat&logo=react&labelColor=444)
+![SQL](https://img.shields.io/badge/-SQL-9cf?style=flat&logo=mysql&labelColor=444)
+![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&labelColor=444)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&labelColor=444)
+![git](https://img.shields.io/badge/-Git-orange?style=flat&logo=github&labelColor=444)
