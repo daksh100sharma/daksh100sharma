@@ -15,3 +15,4 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&labelColor=444)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&labelColor=444)
 ![git](https://img.shields.io/badge/-Git-orange?style=flat&logo=github&labelColor=444)
+![Discord.js](https://support.discord.com/hc/article_attachments/23085044398231)
